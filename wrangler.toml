@@ -1,3 +1,7 @@
 name = "gpt-metrics-cloudflare"
 main = "src/metrics.js"
 compatibility_date = "2026-02-11"
+
+kv_namespaces = [
+  { binding = "METRICS", id = "68bbee73fab64a2a88bf70c2bb0b888d" }
+]
