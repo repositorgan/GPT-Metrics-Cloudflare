@@ -5,7 +5,3 @@ compatibility_date = "2026-02-11"
 kv_namespaces = [
   { binding = "METRICS", id = "68bbee73fab64a2a88bf70c2bb0b888d" }
 ]
-
-routes = [
-  { pattern = "https://gpt-metrics-cloudflare.andrewkieckhefer.workers.dev/stats", script = "stats" }
-]
