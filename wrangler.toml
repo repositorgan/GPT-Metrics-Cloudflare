@@ -1,5 +1,5 @@
 name = "gpt-metrics-cloudflare"
-main = "src/index.js"
+main = "metrics.js"
 compatibility_date = "2026-02-11"
 
 kv_namespaces = [
